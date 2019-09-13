@@ -1,0 +1,17 @@
+meta:
+    - username: username
+    
+whiskies:
+    - name: Foo Bar
+      age: 12
+      alcvol: 42.6
+      price: $42
+      region: Speyside
+      subreddit: scotch
+      commentsid: qwerty
+      rating: 100
+      
+    - name: Quux
+      age: NAS
+      subreddit: worldwhisky
+      commentsid: abcdef
